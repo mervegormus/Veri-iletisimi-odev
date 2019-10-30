@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe.config
+C:\Users\asus\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe
+C:\Users\asus\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.pdb
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.Form1.resources
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.Properties.Resources.resources
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.exe
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.pdb
+C:\Users\asus\source\repos\TCPIP\TCPIP\bin\Debug\SimpleTCP.dll
+C:\Users\asus\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.CopyComplete
